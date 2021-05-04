@@ -14,7 +14,7 @@ int sum(int a, int b){
 	return c;
 }
 int main(){
-	int a, b
+	int a, b;
 	cout <<  "Enter a number";
 	cin >> a;
 	cout << "Enter another number";
